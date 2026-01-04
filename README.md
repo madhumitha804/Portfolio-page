@@ -1,4 +1,4 @@
-# Landing Page Project
+# Portfolio Project
 
 ## 📌 Description
 A responsive Portfolio is developed using HTML and CSS for the CodSoft internship task
